@@ -1,0 +1,6 @@
+{
+	"nombre_alumno": "Paris",
+	"titulo": "Machine Learning for Classification of Planets",
+	"tipo_ml": "C",
+	"target": "planet_type"
+}
